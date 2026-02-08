@@ -1,0 +1,4 @@
+aiogram==3.10.0
+aiohttp==3.9.5
+pyquotex==1.0.1
+python-dotenv==1.0.1
